@@ -25,7 +25,7 @@ Materials for this activity :
 1 classroom, in 3 little teams, 4 students both 
 
 
-![IMG_2918.JPG](http://ictwatch.com/internetsehat/wp-content/uploads/2009/08/lab-a-01.jpg)
+![IMG_2918.JPG](http://bookboon.com/blog/wp-content/uploads/2011/09/happy-students.jpg)
 
 the condition in the class to make comfortable learning
 ---
@@ -46,6 +46,6 @@ for male or female who want get ready to use web
 ---
 #Sample 
 sample can be see here<br>
- HAPPY LEARNING WITH US <br>
+HAPPY LEARNING WITH US 
 [Learning is fun ](https://nursucifitriyani.makes.org/popcorn/1mr7)
 ---
