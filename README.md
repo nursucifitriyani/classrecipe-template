@@ -3,23 +3,23 @@
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Overall
-Learning website <br>
-In this activity, students make a team or group with 5 members : <br>
-steps :<br>
-1. given the themes about knowledge <br>
-2. make a circle with the group <br>
-3. discuss and design the popcorn<br>
-4. present to all friends<br>
+Learning website 
+In this activity, students make a team or group with 5 members : 
+steps :
+1. given the themes about knowledge 
+2. make a circle with the group 
+3. discuss and design the popcorn
+4. present to all friends
 
 
 ---
 #Material
-Materials for this activity :<br>
-* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)<br>
-* Popcorn Maker<br>
-* Screen for presentation<br>
-* Mic for introduction<br>
-* Creative commons<br>
+Materials for this activity :
+* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
+* Popcorn Maker
+* Screen for presentation
+* Mic for introduction
+* Creative commons
 ---
 #Scale
 1 classroom, in 3 little teams, 4 students both 
