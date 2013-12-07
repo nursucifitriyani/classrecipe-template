@@ -9,7 +9,7 @@ steps :<br>
 1. given the themes about knowledge <br>
 2. make a circle with the group <br>
 3. discuss and design the popcorn<br>
-4. present to all friends
+4. present to all friends<br>
 
 
 ---
@@ -19,7 +19,7 @@ Materials for this activity :<br>
 * Popcorn Maker<br>
 * Screen for presentation<br>
 * Mic for introduction<br>
-* Creative commons
+* Creative commons<br>
 ---
 #Scale
 1 classroom, in 3 little teams, 4 students both 
@@ -38,15 +38,14 @@ All Student since 15-18 years old
 for male or female who want get ready to use web
 ---
 #Educational Effect
-* Search information and Remixing skill<br>
-* Presentation Skill<br>
-* deep Knowledge for Science <br>
-* applying web for learning <br>
+* Search information and Remixing skill
+* Presentation Skill
+* deep Knowledge for Science 
+* applying web for learning 
 
 ---
 #Sample 
-sample can be see here
-<h1> HAPPY LEARNING WITH US </h1>
-
+sample can be see here<br>
+ HAPPY LEARNING WITH US <br>
 [Learning is fun ](https://nursucifitriyani.makes.org/popcorn/1mr7)
 ---
